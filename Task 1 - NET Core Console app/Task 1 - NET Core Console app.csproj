@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Task_1___NET_Core_Console_app</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Task 2 - Hello for task 1%28v2%29">
+      <HintPath>..\..\Task 2 - Hello for task 1(v2)\Task 2 - Hello for task 1(v2)\bin\Debug\net6.0\Task 2 - Hello for task 1(v2).dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
